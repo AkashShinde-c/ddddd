@@ -1,0 +1,3 @@
+Build a Multiclass classifier using the CNN model. Use MNIST or any other suitable dataset. a.
+Perform Data Pre-processing b. Define Model and perform training c. Evaluate Results using confusion
+matrix.
